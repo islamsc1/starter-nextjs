@@ -50,7 +50,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            Cyclic
+            Zopry
           </span>
         </a>
       </footer>
